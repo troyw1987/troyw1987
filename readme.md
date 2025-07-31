@@ -1,5 +1,5 @@
+Github broke their stl 3d model viewer :(
 ```stl
-solid Exported from Blender-4.0.2
 facet normal -0.015736 -0.893917 -0.447956
 outer loop
 vertex -2.379380 11.846901 4.311919
@@ -1484,7 +1484,7 @@ vertex 0.000001 -8.417170 4.769762
 vertex 0.000002 -17.558989 -3.985994
 endloop
 endfacet
-endsolid Exported from Blender-4.0.2
+endsolid
 ```
 
 ```geojson
